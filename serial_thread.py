@@ -24,7 +24,7 @@ class SerialThread(QThread):
                     if data:
                         hex_value = int.from_bytes(data, byteorder='big')
                         self.data_received.emit(hex_value)
-                        print(f'serial received：{hex_value} (0x{hex_value:02X})')
+                        # print(f'serial received：{hex_value} (0x{hex_value:02X})')
 
         except Exception as e:
             error_msg = f"串口错误：{e}"
