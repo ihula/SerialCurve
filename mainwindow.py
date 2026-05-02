@@ -7,7 +7,7 @@ from PyQt6.QtGui import QMouseEvent
 from PyQt6.QtGui import QIntValidator  # 新增整数验证
 import serial.tools.list_ports
 from serial_thread import SerialThread
-from excel_exporter import ExcelExporter  # <--- 导入导出模块
+from excel_exporter import ExcelExporter  # 导入导出Excel模块
 
 
 # 重写 QComboBox，实现点击刷新
