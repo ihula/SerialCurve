@@ -27,7 +27,7 @@
 * 高效
 
 # Platform 平台
-   - Windows 
+   - Python环境
    ```
    # 进到项目根目录
 
@@ -55,9 +55,7 @@
 
    #一键安装所有依赖
    pip install -r requirements.txt
-   ```
-   - Linux ( x86_64 )
-   - macOS ( x86_64 )
+ 
 
 SerialCurve已经在以下平台做过测试:
 
