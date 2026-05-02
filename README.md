@@ -3,7 +3,6 @@
 <p align="center">
 <a href="https://github.com/ihula/SerialCurve/releases"><img alt="Version" src="https://img.shields.io/github/release/ihula/SerialCurve"/></a>
 <a href="https://github.com/ihula/SerialCurve/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/ihula/SerialCurve"/></a>
-<a href="https://gitee.com/ihula/SerialCurve"><img alt="Stars" src="https://gitee.com/ihula/SerialCurve/badge/star.svg?theme=dark"/></a>
 <a href="https://github.com/ihula/SerialCurve/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/ihula/SerialCurve"/></a>
 <a href="https://github.com/ihula/SerialCurve/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/badge/License-LGPL%203.0-orange"/></a>
 <img alt="language" src="https://img.shields.io/badge/language-c++-red"/>
